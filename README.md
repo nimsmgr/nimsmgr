@@ -16,6 +16,15 @@
 <img width = 40% src="https://github-readme-stats.vercel.app/api?username=nimsmgr&show_icons=true&count_private=true&hide_title=false&theme=dracula">
 <img width = 40% src="https://github-readme-streak-stats.herokuapp.com?user=nimsmgr&theme=buefy-dark">
 </div>
+
+- - -
+
+# Quote
+
+```
+A Jack of all trades is master of none,
+but oftentimes better than master of one. 
+```
 <!--
 **nimsmgr/nimsmgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
