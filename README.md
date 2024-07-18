@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning flutter
 - 🔭 I’m currently working on a growing skills
 - 👯 I’m looking to collaborate on anything with flutter
-- ⚡ Fun fact: I am an non IT student diving in flutter 
 
 # Tech Stack:
 <img src="https://skillicons.dev/icons?i=dart,flutter,firebase">
